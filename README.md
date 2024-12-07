@@ -12,4 +12,8 @@ My LeetCode problem journey
 |  |
 | ------- |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ndcarlos/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ndcarlos/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
